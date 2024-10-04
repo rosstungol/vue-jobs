@@ -1,5 +1,5 @@
 <script setup>
-import { ref, defineProps, onMounted, reactive } from "vue";
+import { defineProps, onMounted, reactive } from "vue";
 import { RouterLink } from "vue-router";
 import axios from "axios";
 import JobListing from "./JobListing.vue";
